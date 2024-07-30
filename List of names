@@ -1,0 +1,9 @@
+names=['Jack', 'Scott', 'Bill', 'Andrew', 'Mike']
+print(names[0].upper())
+print(names[1])
+print(names[2])
+print(names[3])
+print(names[4].upper())
+
+print(names[-1])
+print(names[-5])
